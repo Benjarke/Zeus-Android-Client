@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="listScheduledEntries">
+     <item>0 Minutes</item>
+     <item>1 Minutes</item>
+     <item>5 Minutes</item>
+     <item>15 Minutes</item>
+     <item>30 Minutes</item>
+     <item>1 Hours</item>
+     <item>12 Hours</item>
+     <item>24 Hours</item>
+ </string-array>
+    <string-array name="listScheduledValues">
+     <item>0</item>
+     <item>1</item>
+     <item>5</item>
+     <item>15</item>
+     <item>30</item>
+     <item>60</item>
+     <item>720</item>
+     <item>1440</item>
+ </string-array>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="blackwhite">#010101</color>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="dark_paragraph">#94A9B7</color>
+    <color name="darker_txt">#4d4d4d</color>
+    <color name="fb_border_center">#167EA0</color>
+    <color name="fb_border_end">#167EA0</color>
+    <color name="fb_border_start">#167EA0</color>
+    <color name="fb_camou_border_center">#700404</color>
+    <color name="fb_camou_border_end">#700404</color>
+    <color name="fb_camou_border_start">#700404</color>
+    <color name="fb_camou_normal_center">#D61E1E</color>
+    <color name="fb_camou_normal_end">#E83535</color>
+    <color name="fb_camou_normal_start">#971C1C</color>
+    <color name="fb_focused_center">#212121</color>
+    <color name="fb_focused_end">#212121</color>
+    <color name="fb_focused_start">#212121</color>
+    <color name="fb_input_border_center">#D4D7D9</color>
+    <color name="fb_input_border_end">#D4D7D9</color>
+    <color name="fb_input_border_start">#D4D7D9</color>
+    <color name="fb_normal_center">#3A3A3A</color>
+    <color name="fb_normal_end">#212121</color>
+    <color name="fb_normal_start">#4C4C4C</color>
+    <color name="fb_selected_center">#212121</color>
+    <color name="fb_selected_end">#212121</color>
+    <color name="fb_selected_start">#212121</color>
+    <color name="lighter_bg">#E8EBEA</color>
+    <color name="lighter_txt">#808080</color>
+    <color name="screen_bg">#1D2838</color>
+    <color name="screen_bg2">#e1e5e4</color>
+    <color name="screen_bg_white">#ffffff</color>
+    <color name="screen_fb">#fbfbfb</color>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="ButtonPrey"><attr format="string" name="customFont"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">6171000</integer>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <string name="add_this_device">ADD THIS DEVICE!</string>
+    <string name="agree">I agree</string>
+    <string name="agreements_message1">Please be sure to read and agree Zeus Terms and Conditions by clicking below</string>
+    <string name="agreements_message2"><u>Read Agreement</u></string>
+    <string name="agreements_title">Welcome to\nZeus for Android™!</string>
+    <string name="already_prey_user">ALREADY A ZEUS USER</string>
+    <string name="back">Back</string>
+    <string name="call_logs_notification_prefix">calls list: called, received, and missed numbers</string>
+    <string name="cancel">Cancel</string>
+    <string name="change">Change</string>
+    <string name="choose_a_6_char_pass">Choose a password</string>
+    <string name="choose_your_hero">Choose your hero!</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="congratulations_title">Device Added!</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="create_my_account">CREATE MY ACCOUNT!</string>
+    <string name="create_prey_account_h1">Create new account</string>
+    <string name="creating_account_please_wait">Creating account. Please wait…</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="decline">Decline</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="device_added_congratulations_text">You have successfully associated this device with your Zeus account. Now take a minute to set it up.</string>
+    <string name="device_admin_description">These privileges are needed to remotely lockdown your device, and will prevent Zeus from being uninstalled. You need to revoke these rights later if you wish to uninstall Zeus.</string>
+    <string name="device_admin_label">Zeus extra security</string>
+    <string name="device_not_ready_h1">Device not ready!</string>
+    <string name="device_not_ready_h2">Location services are disabled for Zeus. Reports will not be sent.</string>
+    <string name="device_ready_h1">DEVICE READY</string>
+    <string name="device_ready_h2">Your phone is protected! That is all you need to do. Visit Zeus.Benjarke.com to send remote commands to the device.</string>
+    <string name="device_set_up_h1">DEVICE SET UP!</string>
+    <string name="disable_power_body_text">Your device can\'t be turned off\nif its screen is locked.\nYou can change this after from the\nZeus configuration.</string>
+    <string name="disable_power_title_h1">DISABLE POWER BUTTON</string>
+    <string name="disabled">Disabled</string>
+    <string name="dontagree">I don\'t agree</string>
+    <string name="elapsed_time">Elapsed time</string>
+    <string name="enabled">Enabled</string>
+    <string name="error_all_fields_are_required">All fields are required</string>
+    <string name="error_cant_add_this_device">Can\'t add this device to your Zeus account. Please check again the email and password provided. %s</string>
+    <string name="error_cant_report_forgotten_password">Can\'t report forgotten password. Please try again later.</string>
+    <string name="error_communication_exception">Zeus couldn\'t connect to the web Control Panel.\n\nCheck your settings and try again.</string>
+    <string name="error_registered_password_has_changed">Can\'t change password. The current password entered is invalid.</string>
+    <string name="error_title">We have a situation!</string>
+    <string name="execution_interval">Execution interval</string>
+    <string name="execution_status">Execution status</string>
+    <string name="feedback_form_button1">OK, send</string>
+    <string name="feedback_form_button2">NO, thanks</string>
+    <string name="feedback_form_field_hint_comment"/>
+    <string name="feedback_form_message">What would you change about Zeus if you could?</string>
+    <string name="feedback_form_send_email">Send Email</string>
+    <string name="feedback_form_title">Drop us a line</string>
+    <string name="feedback_principal_button1">I Love It</string>
+    <string name="feedback_principal_button2">It Needs Improvements</string>
+    <string name="feedback_principal_button3">No, thanks</string>
+    <string name="feedback_principal_message">It seems you\'ve been using Zeus for a while now. Would you tell us what you think about it?</string>
+    <string name="feedback_principal_title">Is everything alright, dear?</string>
+    <string name="give_permissions">GIVE PERMISSIONS</string>
+    <string name="go_to_congratulations">NEXT</string>
+    <string name="go_to_settings">GO TO SETTINGS</string>
+    <string name="gps_ls">GPS location service</string>
+    <string name="gps_network_not_enabled">Location Providers are disabled.\nYou need to activate at least one of them if you wish to track your device.</string>
+    <string name="have_an_account"/>
+    <string name="hero_chosen">Hero chosen!</string>
+    <string name="hero_notification_message">I just chose you as my Zeus Hero for my Android %s! So if someone else replaces my SIM card you\'ll be notified by SMS. Check out preyproject.com/hero!</string>
+    <string name="hours">hours</string>
+    <string name="location_notification_prefix">Geofix sent: </string>
+    <string name="log_in">LOG IN</string>
+    <string name="log_in_to_prey_h1">Log in to Zeus</string>
+    <string name="login_cp"/>
+    <string name="login_setting_h1_text">LOGIN TO SETTINGS</string>
+    <string name="login_setting_h2_text">For your security, type your password\nto manager Zeus device settings.</string>
+    <string name="login_to_prey">Login to Zeus</string>
+    <string name="manage_prey_settings"/>
+    <string name="minutes">minutes</string>
+    <string name="network_ls">Network location service</string>
+    <string name="new_account_congratulations_text">You\'ve successfully installed Zeus on your device. To finish the setup process you need to verify your email address by following the link we just sent to %s.</string>
+    <string name="new_user">NEW USER</string>
+    <string name="next_execution_in_aprox">Next execution in aprox</string>
+    <string name="no">No</string>
+    <string name="no_hero_selected">No hero selected</string>
+    <string name="no_permission_body_text">Zeus needs special permits to be able to lock your device and also prevent thieves from uninstalling it.</string>
+    <string name="no_permission_title_h1">NO EXTRA PROTECTION</string>
+    <string name="not_verified_device_msg">Tap to link it to the Control Panel</string>
+    <string name="not_verified_device_title">Zeus: Device not configured</string>
+    <string name="notify_your_hero_now">Good choice! Would you like to let %s know you\'ve selected him as your hero? We\'ll send a quick SMS message.</string>
+    <string name="ok">OK</string>
+    <string name="password_checking_dialog">Checking your password…\nJust a sec!</string>
+    <string name="password_dialog_forgot_text1">Forgot your password?</string>
+    <string name="password_intents_exceed">You have failed 3 times. Sorry!</string>
+    <string name="password_wrong">Wrong password. Try again.</string>
+    <string name="permission_body_text">Zeus was granted special permissions in order to lock your device and to prevent thieves from uninstalling it. If you ever need to remove Zeus, you first have to revoke these permissions from within the app.</string>
+    <string name="permission_title_h1">EXTRA PROTECTION</string>
+    <string name="popup_alert_title">Important message</string>
+    <string name="preferences_about">Zeus for Android™</string>
+    <string name="preferences_about_category_name">About</string>
+    <string name="preferences_about_message">Zeus for Android™</string>
+    <string name="preferences_about_title">Zeus for Android™</string>
+    <string name="preferences_activate_mobile_data_summary">Warning: Could not work on some devices</string>
+    <string name="preferences_activate_mobile_data_title">Activate mobile data</string>
+    <string name="preferences_activate_wifi_summary">Turn on wifi when Zeus starts running</string>
+    <string name="preferences_activate_wifi_title">Activate wifi</string>
+    <string name="preferences_admin_device_password_check_summary">WARNING: By selecting this option you\'ll be required an unlock password when uninstalling Zeus</string>
+    <string name="preferences_admin_device_password_check_title">Uninstall Lock</string>
+    <string name="preferences_admin_device_setting_uninstallation_password">Setting uninstaller password</string>
+    <string name="preferences_admin_device_uninstallation_password_dialog_message">WARNING: THIS CANNOT BE RECOVERED. Please write this down to prevent unintentional device lock.</string>
+    <string name="preferences_admin_device_uninstallation_password_dialog_title">Enter a new uninstall password</string>
+    <string name="preferences_admin_device_uninstallation_password_summary">Set the uninstall lock password</string>
+    <string name="preferences_admin_device_uninstallation_password_title">Uninstall password</string>
+    <string name="preferences_admin_disabled_dialog_message">You\'re about to grant Zeus special security privileges, that will allow you to remotely lock your device.\nClick Yes to continue.</string>
+    <string name="preferences_admin_disabled_dialog_title">Extra permissions</string>
+    <string name="preferences_admin_disabled_summary">Allows lock and uninstall protection</string>
+    <string name="preferences_admin_disabled_title">Grant extra permissions</string>
+    <string name="preferences_admin_enabled_device_summary">Manage advanced security settings</string>
+    <string name="preferences_admin_enabled_device_title">Extra security</string>
+    <string name="preferences_admin_enabled_dialog_message">By clicking \'Yes\' you will revoke Zeus administration privileges on this device. Without these privileges, Zeus won\'t be able to lock your device.\nAre you sure?</string>
+    <string name="preferences_admin_enabled_dialog_title">Please note</string>
+    <string name="preferences_admin_enabled_summary">Allows you to uninstall Zeus</string>
+    <string name="preferences_admin_enabled_title">Revoke extra permissions</string>
+    <string name="preferences_advanced_screen_summary">Configure advanced settings</string>
+    <string name="preferences_advanced_screen_title">Advanced configuration</string>
+    <string name="preferences_camouflage_summary">Display a fake log in screen</string>
+    <string name="preferences_camouflage_title">Camouflage mode</string>
+    <string name="preferences_category_operations_summary">Start and stop Zeus from your device</string>
+    <string name="preferences_category_operations_title">Execution control</string>
+    <string name="preferences_category_other_summary">Manage your account settings</string>
+    <string name="preferences_category_other_title">Account management</string>
+    <string name="preferences_check_sim_change">Warn on SIM change</string>
+    <string name="preferences_check_sim_change_summary">Activate Zeus if SIM card is replaced</string>
+    <string name="preferences_config_title">Manage Your Devices</string>
+    <string name="preferences_destination_sms">Contact to notify</string>
+    <string name="preferences_destination_sms_not_valid">The contact you entered doesn\'t seem to have a valid mobile phone number</string>
+    <string name="preferences_destination_sms_summary">Will be notified by SMS of new device number</string>
+    <string name="preferences_detach_dettaching_message">Detaching device, please wait…</string>
+    <string name="preferences_detach_dialog_message">Your device will be detached from the Control Panel. This will also delete all its stored reports.\n\nAre you sure?</string>
+    <string name="preferences_detach_dialog_title">Detaching device</string>
+    <string name="preferences_detach_summary">Deletes this device from your Zeus account</string>
+    <string name="preferences_detach_title">Detach device</string>
+    <string name="preferences_disable_power_options_summary">Your device can\'t be turned off if its screen is locked</string>
+    <string name="preferences_disable_power_options_title">Disable Power Menu</string>
+    <string name="preferences_go_to_control_panel_dialog_message">You\'ll be redirected to your Control Panel account.\n\n Are you sure?</string>
+    <string name="preferences_go_to_control_panel_dialog_title">Acknowledge your request</string>
+    <string name="preferences_go_to_control_panel_summary">Go to your Zeus account</string>
+    <string name="preferences_go_to_control_panel_title">Manage Your Devices</string>
+    <string name="preferences_lock_sim_screen_summary">Configure SIM change events</string>
+    <string name="preferences_lock_sim_screen_title">Active SIM detection</string>
+    <string name="preferences_password_confirm">Confirm password</string>
+    <string name="preferences_password_dialog_title">Please type your\nnew password</string>
+    <string name="preferences_password_length_error">Passwords must be at least 6 characters</string>
+    <string name="preferences_password_new">New password</string>
+    <string name="preferences_password_old">Current password</string>
+    <string name="preferences_password_summary">Set your new Zeus administration password</string>
+    <string name="preferences_password_title">Change password</string>
+    <string name="preferences_passwords_do_not_match">Passwords do not match</string>
+    <string name="preferences_passwords_successfully_changed">Your Zeus password was successfully changed</string>
+    <string name="preferences_passwords_updating_dialog">Updating your Zeus password.\nPlease wait…</string>
+    <string name="preferences_scheduled_summary">How often Zeus will run if no Google Services are available</string>
+    <string name="preferences_scheduled_title">Set interval frequency</string>
+    <string name="preferences_sms_run">SMS activation message</string>
+    <string name="preferences_sms_run_edittext">Send this text from another device to start Zeus</string>
+    <string name="preferences_sms_run_summary">Word or phrase that will wake up Zeus</string>
+    <string name="preferences_sms_stop">SMS deactivation message</string>
+    <string name="preferences_sms_stop_edittext">Send this text from another device to stop Zeus</string>
+    <string name="preferences_sms_stop_summary">Word or phrase that will stop Zeus</string>
+    <string name="preferences_start_dialog_message">You\'re attempting to mark this device as missing, and start sending reports to the Control Panel.\n\nAre you sure?</string>
+    <string name="preferences_start_dialog_title">Starting Zeus</string>
+    <string name="preferences_start_summary">Mark this device as missing</string>
+    <string name="preferences_start_title">Start Zeus</string>
+    <string name="preferences_status">Status</string>
+    <string name="preferences_status_summary">Check execution status, time running and more.</string>
+    <string name="preferences_status_title">Zeus current status</string>
+    <string name="preferences_stop_dialog_message">Zeus will stop sending reports to the Control Panel and your device will be mark as recovered.\n\nAre you sure?</string>
+    <string name="preferences_stop_dialog_title">Stopping Zeus</string>
+    <string name="preferences_stop_summary">Stops Zeus process and related modules</string>
+    <string name="preferences_stop_title">Stop Zeus</string>
+    <string name="preferences_update_sim_dialog_message">You\'re about to change the registered SIM on this device. By clicking \'Yes\' Zeus will assume current one as valid.\n\nAre you sure?</string>
+    <string name="preferences_update_sim_dialog_title">Change valid SIM</string>
+    <string name="preferences_update_sim_summary">Assign current SIM as valid</string>
+    <string name="preferences_update_sim_title">Assign to current SIM</string>
+    <string name="preyForAndroid_name">Zeus</string>
+    <string name="repeat_your_pass">Repeat your password</string>
+    <string name="running">Running</string>
+    <string name="running_since">Running since</string>
+    <string name="set_new_user_dialog_creating_popup">Creating account. Please wait…</string>
+    <string name="set_old_user_loading">Attaching device to account…\nJust a sec!</string>
+    <string name="set_old_user_no_more_devices_text">It seems you\'ve run out of free slots for devices on your Zeus account.\n\nPlease try removing an existing device on the Control Panel or create a new account.</string>
+    <string name="set_old_user_no_more_devices_title">Hold your horses!</string>
+    <string name="sms_activation">SMS activation phrase</string>
+    <string name="sms_deactivation">SMS deactivation phrase</string>
+    <string name="sms_not_sent">There was an error sending the message. Does your device have SMS support?</string>
+    <string name="sms_to_send_text">Your friend\'s device has a new number as its SIM card has been replaced. Please contact him at %s if you think it may have been stolen.</string>
+    <string name="stopped">Stopped</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="type_your_pass">Type in your password</string>
+    <string name="updating_info_message">Updating information, please wait…</string>
+    <string name="verify_your_account_first">You have to verify your account first</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="welcome">Welcome to Zeus</string>
+    <string name="yes">Yes</string>
+    <string name="your_email">Your email</string>
+    <string name="your_hero_text">Your hero will be the chosen one who will receive an SMS message in the event Zeus detects a new SIM card on your phone.</string>
+    <string name="your_name">Username</string>
+    <string name="your_prey_email">Your Zeus account email</string>
+    <string name="your_prey_pass">Your Zeus account password</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="PreyButton">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/button_bg_selector</item>
+
+    </style>
+    <style name="PreyButton.Camouflage">
+        <item name="android:background">@drawable/button_camouflage_selector</item>
+    </style>
+    <style name="PreyButton.Large">
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_height">72dp</item>
+    </style>
+    <style name="PreyButton.Large.Camouflage">
+        <item name="android:background">@drawable/button_camouflage_selector</item>
+    </style>
+    <style name="PreyButton.XLarge">
+        <item name="android:textSize">45sp</item>
+        <item name="android:layout_height">96dp</item>
+    </style>
+    <style name="PreyButton.XLarge.Camouflage">
+        <item name="android:background">@drawable/button_camouflage_selector</item>
+    </style>
+    <style name="PreyButton2">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/button_round</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="PreyButton2.Large">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginLeft">70dp</item>
+        <item name="android:layout_marginRight">70dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/button_round</item>
+        <item name="android:gravity">center</item>        
+    </style>
+    <style name="PreyButton2.Small">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/button_round</item>
+        <item name="android:gravity">center</item>        
+    </style>
+    <style name="PreyButton3">
+        <item name="android:textColor">#39A6C6</item>
+        <item name="android:textSize">14sp</item>
+        
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_round</item>
+    </style>
+    <style name="PreyButton3.Large">
+        <item name="android:textColor">#047298</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginLeft">70dp</item>
+        <item name="android:layout_marginRight">70dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_round</item>
+    </style>
+    <style name="PreyButton3.Small">
+        <item name="android:textColor">#047298</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_round</item>
+    </style>
+    <style name="PreyButton4">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/button_round</item>
+    </style>
+    <style name="PreyEditText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:background">@drawable/input_text2</item>
+        <item name="android:ems">8</item>
+    </style>
+    <style name="PreyEditText.Large">
+        <item name="android:layout_height">72dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+    </style>
+    <style name="PreyEditText.XLarge">
+        <item name="android:layout_height">96dp</item>
+        <item name="android:textSize">33sp</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+    </style>
+    <style name="PreyTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#333</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="PreyTextAppearance2" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="PreyTheme" parent="@android:style/Theme.Black">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Theme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Preference" parent="android:Theme">
+   		 <item name="android:textColor">#000000</item>
+   		 <item name="android:cacheColorHint">@color/black</item>
+   		 <item name="android:background">@color/white</item>
+   		 <item name="android:windowBackground">@color/white</item>
+   		 <item name="android:colorBackground">@color/white</item>
+   		 <item name="android:listViewStyle">@style/listViewPrefs</item>
+ 	 </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+   		 <item name="android:windowIsTranslucent">true</item>
+   		 <item name="android:windowBackground">@android:color/transparent</item>
+   		 <item name="android:windowContentOverlay">@null</item>
+   		 <item name="android:windowNoTitle">true</item>
+   		 <item name="android:windowIsFloating">true</item>
+   		 <item name="android:backgroundDimEnabled">false</item>
+ 	 </style>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="listViewPrefs" parent="@android:style/Widget.ListView">
+   		 <item name="android:background">@color/white</item>
+   		 <item name="android:cacheColorHint">@color/black</item>
+   		 <item name="android:textColor">@color/black</item>
+ 	 </style>
+</resources>

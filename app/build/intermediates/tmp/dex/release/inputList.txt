@@ -1,0 +1,5 @@
+C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\classes\release
+C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-8721f76273c233bb1415da44d396692cff066ea8.jar
+C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-5dae7d6f8c02d4c363b781c861e7da31e09728ec.jar
+C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\classes-5ddf5582a709ae2379c114db1cfdf19df9fe9cfb.jar
+C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\classes-2308d3535746d5605af5b89727b8ec210fe9dca3.jar

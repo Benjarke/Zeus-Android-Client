@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="agree">Συμφωνώ</string>
+    <string name="agreements_message1">Παρακαλώ σιγουρευτείτε ότι έχετε διαβάσει και συμφωνήσει με τους Όρους Χρήσης του Prey κάνοντας κλικ παρακάτω</string>
+    <string name="agreements_message2"><u>Διαβάστε το Συμφωνητικό</u></string>
+    <string name="agreements_title">Καλώς ορίσατε στο Prey για Android!</string>
+    <string name="app_name">Prey για Android™</string>
+    <string name="back">Πίσω</string>
+    <string name="call_logs_notification_prefix">λίστα κλήσεων: εξερχόμενες, εισερχόμενες, και αναπάντητες </string>
+    <string name="cancel">Ακύρωση</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values-el/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Μια εφαρμογή απαιτεί την ενημέρωση της εφαρμογής Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Αυτή η εφαρμογή δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ενημέρωση Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Ενεργοπ. υπηρεσιών Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Αυτή η εφαρμογή δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Υποβλήθηκε αίτημα από την εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Μη έγκυρος λογαριασμός"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Σφάλμα δικτύου"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Σφάλμα Υπηρεσιών Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Άγνωστο πρόβλημα με τις υπηρεσίες Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Υπηρεσίες Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Ενημέρωση"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Αυτή η εφαρμογή θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Άνοιγμα στο τηλέφωνο"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Σύνδεση"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Συνδεθείτε στο Google"</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="congratulations_title">Η συσκευή σας προστέθηκε!</string>
+    <string name="device_added_congratulations_text">Έχετε συνδέσει επιτυχώς αυτήν την συσκευή με τον λογαριασμό σας. Τώρα αφιερώστε ένα λεπτό για να τη ρυθμίσετε.</string>
+    <string name="dontagree">Δεν συμφωνώ</string>
+    <string name="error_all_fields_are_required">Απαιτούνται όλα τα πεδία</string>
+    <string name="error_cant_add_this_device">Αδυναμία προσθήκης αυτής της συσκευής στον λογαριασμό σας. Παρακαλώ ελέγξτε ξανά το email και τον κωδικό που έχετε εισαγάγει.</string>
+    <string name="error_cant_change_password_unknown_error">Δεν είναι δυνατή η αλλαγή του κωδικού. Σας παρακαλώ προσπαθήστε αργότερα.</string>
+    <string name="error_cant_create_acount">Αποτυχία καταχώρησης λογαριασμού. Παρακαλώ ελέγξτε τις πληροφορίες που έχετε εισαγάγει.</string>
+    <string name="error_cant_report_forgotten_password">Δεν μπορώ να αναφέρω τον χαμένο κωδικό. Σας παρακαλώ προσπαθήστε αργότερα.</string>
+    <string name="error_communication_exception">Το Prey δεν μπόρεσε να συνδεθεί στον Πίνακα Ελέγχου.\n\nΕλέγξτε τις ρυθμίσεις και προσπαθήστε ξανά.</string>
+    <string name="error_registered_password_has_changed">Αδυναμία αλλαγής κωδικού. Ο κωδικός του Πίνακα Ελέγχου έχει αλλάξει από την τελευταία φορά που συνδεθήκατε.</string>
+    <string name="error_title">Κάτι πήγε στραβά!</string>
+    <string name="first_dialog_message">Το Prey θα σας βοηθήσει να βρείτε το κινητό σας  \n    με το να αναφέρει την τοποθεσία του σε ένα διαδικτυακό πίνακα ελέγχου, που ενεργοποιείται με ένα μήνυμα SMS της επιλογής σας.\n\nΈχετε εγγραφεί ήδη στο preyproject.com; \n    </string>
+    <string name="first_dialog_title">Καλώς ορίσατε στο \nPrey για Android™!</string>
+    <string name="location_notification_prefix">Αποστολή Geofix:</string>
+    <string name="new_account_congratulations_text">Εγκαταστήσατε επιτυχώς το Prey στο κινητό σας!\nΓια να ολοκληρώσετε την εγκατάσταση πρέπει να πιστοποιήσειτε το email σας ακολουθώντας τον σύνδεσμο που μόλις σας στείλαμε στο %s.</string>
+    <string name="no">Όχι</string>
+    <string name="ok">ΟΚ</string>
+    <string name="password_checking_dialog">Έλεγχος κωδικού...\nΜια στιγμή!</string>
+    <string name="password_dialog_forgot_requesting">Αποστολή αναφοράς χαμένου κωδικού...\nΜια στιγμή!</string>
+    <string name="password_dialog_forgot_sent_label">Ένα email με οδηγίες για την αλλαγή του κωδικού σας έχει σταλεί στο %s</string>
+    <string name="password_dialog_forgot_sent_title">Οι οδηγίες έχουν σταλεί</string>
+    <string name="password_dialog_forgot_text1">Ξεχάσατε τον κωδικό σας;</string>
+    <string name="password_dialog_forgot_text2"> <u>Κάντε κλικ εδώ!</u></string>
+    <string name="password_dialog_label">Εισαγωγή κωδικού:</string>
+    <string name="password_dialog_title">Καλώς ορίσατε και πάλι!</string>
+    <string name="password_intents_exceed">Έχετε αποτύχει 3 φορές. Λυπάμαι!</string>
+    <string name="password_wrong">Λάθος κωδικός. Προσπαθήστε ξανά.</string>
+    <string name="popup_alert_message">ΑΝΑΔΥΟΜΕΝΟ ΜΗΝΥΜΑ</string>
+    <string name="popup_alert_title">Σημαντικό μήνυμα</string>
+    <string name="preferences_about">Prey για Android™</string>
+    <string name="preferences_about_category_name">Στοιχεία</string>
+    <string name="preferences_about_message">Prey για Android™</string>
+    <string name="preferences_about_summary">Έκδοση 0.3.73 - © Fork Ltd.</string>
+    <string name="preferences_about_title">Prey για Android™</string>
+    <string name="preferences_category_operations">Έλεγχος ρυθμίσεων</string>
+    <string name="preferences_category_title_other">Διαχείριση λογαριασμού</string>
+    <string name="preferences_category_title_ringtone">Σύστημα Συναγερμού</string>
+    <string name="preferences_check_sim_change">Κλείδωσε στην παρούσα SIM</string>
+    <string name="preferences_check_sim_change_summary">Ενεργοποίηση του Prey εάν αντικατασταθεί η SIM</string>
+    <string name="preferences_destination_sms">Ειδοποίηση αλλαγής SIM</string>
+    <string name="preferences_destination_sms_edittext">Παρακαλώ επιλέξτε την επαφή που θα ενημερωθεί αν εντοπιστεί καινούργια κάρτα SIM. Θα λάβει ένα μήνυμα SMS από το νέο αριθμό της συσκευής.</string>
+    <string name="preferences_destination_sms_edittext_hint">Πληκτρολογήστε όνομα</string>
+    <string name="preferences_destination_sms_not_valid">Ο αριθμός που έχετε εισάγει μοιάζει λανθασμένος</string>
+    <string name="preferences_destination_sms_summary">Αριθμός κινητού που θα ειδοποιηθεί αν αλλάξει η SIM</string>
+    <string name="preferences_detach_confirmation_message">Το κινητό σας αφαιρέθηκε επιτυχώς από τον λογαριασμό σας.\nΤώρα μπορείτε να ρυθμίσετε και πάλι το Prey.</string>
+    <string name="preferences_detach_dettaching_message">Η συσκευή αφαιρείται, παρακαλώ περιμένετε...</string>
+    <string name="preferences_detach_dialog_message">Το κινητό σας θα αφαιρεθεί από τον Πίνακα Ελέγχου. Αυτό θα αφαιρέσει και όλες τις αποθηκευμένες αναφορές.\n\nΕίστε σίγουρος;</string>
+    <string name="preferences_detach_dialog_title">Η συσκευή αφαιρείται</string>
+    <string name="preferences_detach_summary">Αφαιρέστε αυτήν την συσκευή από τον Πίνακα Ελέγχου του Prey</string>
+    <string name="preferences_detach_title">Αφαίρεση συσκευής</string>
+    <string name="preferences_go_to_control_panel_dialog_message">Θα μεταφερθείτε στον Πίνακα Ελέγχου του λογαριασμού σας.\n\nΕίστε σίγουρος;</string>
+    <string name="preferences_go_to_control_panel_dialog_title">Το αίτημά σας επεξεργάζεται</string>
+    <string name="preferences_go_to_control_panel_summary">Ανοίγει τον Πίνακα Ελέγχου του Prey στο πρόγραμμα πλοήγησης</string>
+    <string name="preferences_go_to_control_panel_title">Δείτε τις δημιουργηθείσες αναφορές</string>
+    <string name="preferences_password_confirm">Επιβεβαίωση κωδικού</string>
+    <string name="preferences_password_dialog_title">Παρακαλώ πληκτρολογήστε τονν\nέο σας κωδικό</string>
+    <string name="preferences_password_length_error">Ο κωδικός πρέπει να έχει το λιγότερο 6 χαρακτήρες</string>
+    <string name="preferences_password_new">Νέος κωδικός</string>
+    <string name="preferences_password_summary">Ορίστε τον νέο κωδικό διαχειριστή του Prey</string>
+    <string name="preferences_password_title">Αλλαγή κωδικού</string>
+    <string name="preferences_password_updated">Ο κωδικός ενημερώθηκε!</string>
+    <string name="preferences_passwords_do_not_match">Οι κωδικοί είναι διαφορετικοί</string>
+    <string name="preferences_passwords_successfully_changed">Ο κωδικός σας έχει ενημερωθεί επιτυχώς</string>
+    <string name="preferences_passwords_updating_dialog">Ενημέρωση κωδικού Prey.\nΠαρακαλώ περιμένετε...</string>
+    <string name="preferences_ringtone_summary">Επιλογή ήχου ενεργοποίησης</string>
+    <string name="preferences_ringtone_title">Επιλογή ήχου</string>
+    <string name="preferences_sms_run">Μήνυμα SMS ενεργοποιήσης</string>
+    <string name="preferences_sms_run_edittext">Αυτό το κείμενο θα ενεργοποιήσει το Prey όταν παραληφθεί</string>
+    <string name="preferences_sms_run_summary">Λέξη ή φράση που θα εκκινήσει το Prey</string>
+    <string name="preferences_sms_stop">Μήνυμα SMS απενεργοποίησης</string>
+    <string name="preferences_sms_stop_edittext">Αυτό το κείμενο θα σταματήσει το Prey όταν παραληφθεί</string>
+    <string name="preferences_sms_stop_summary">Λέξη ή φράση που θα σταματήσει το Prey</string>
+    <string name="preferences_sms_title">Κύριες ρυθμίσεις</string>
+    <string name="preferences_start_confirmation_message">Η συσκευή σας έχει τώρα σημειωθεί ως αγνοούμενη στον Πίνακα Ελέγχου. Έχετε υπόψη ότι αυτή η λειτουργία μπορεί να εξαντλήσει την μπαταρία σύντομα!</string>
+    <string name="preferences_start_dialog_message">Προσπαθείτε να σημειώσετε τη συσκευή ως αγνοούμενη και να αρχίσετε να στέλνετε αναφορές στον Πίνακα Ελέγχου.\n\nΕίστε σίγουρος;</string>
+    <string name="preferences_start_dialog_title">Έναρξη λειτουργίας Prey</string>
+    <string name="preferences_start_summary">Επισημάνετε αυτήν την συσκευή ως αγνοούμενη.</string>
+    <string name="preferences_start_title">Έναρξη του Prey</string>
+    <string name="preferences_stop_confirmation_message">Όλα είναι και πάλι κανονικά. Χαιρόμαστε που ανακτήσατε το κινητό σας!!</string>
+    <string name="preferences_stop_dialog_message">Το Prey θα σταματήσει να στέλνει αναφορές στον Πίνακα Ελέγχου και η συσκευή θα σημειωθεί ως ανακτημένη.\nΕίστε σίγουρος;</string>
+    <string name="preferences_stop_dialog_title">Απενεργοποιίηση του Prey</string>
+    <string name="preferences_stop_summary">Σταματάει τις διεργασίες του Prey και όποιες σχετικές λειτουργίες</string>
+    <string name="preferences_stop_title">Απενεργοποίηση Prey</string>
+    <string name="preyForAndroid_name">Prey</string>
+    <string name="set_new_user_dialog_create">Δημιούργηστε νέο λογαριασμό.</string>
+    <string name="set_new_user_dialog_creating_popup">Δημιουργούμε τον λογαριασμό. Παρακαλώ περιμένετε...</string>
+    <string name="set_new_user_dialog_email">Έγκυρο email</string>
+    <string name="set_new_user_dialog_name">Όνομα</string>
+    <string name="set_new_user_dialog_password">Κωδικός</string>
+    <string name="set_new_user_dialog_repassword">Θα χρειαστείτε αυτόν τον κωδικό για να διαχειριστείτε το Prey σε αυτό το κινητό και για να συνδεθείτε στον Πίνακα Ελέγχου στο preyproject.com.\n\nΠαρακαλώ ξανα-γράψτε τον κωδικό.</string>
+    <string name="set_new_user_dialog_repassword_confirm">Επαλήθευση</string>
+    <string name="set_new_user_dialog_repassword_title">Παρακαλώ ξαναελέγξτε\nτον κωδικό σας</string>
+    <string name="set_new_user_dialog_title">Εγγραφή για \nνέο λογαριασμό</string>
+    <string name="set_old_user_dialog_create">Βρες το κινητό μου</string>
+    <string name="set_old_user_dialog_email">Email</string>
+    <string name="set_old_user_dialog_password">Κωδικός</string>
+    <string name="set_old_user_dialog_title">Παρακαλώ συμπληρώστε τα στοιχεία\n του λογαριασμού σας</string>
+    <string name="set_old_user_loading">Προσθήκη συσκευής στον λογαριασμό...\nΠαρακαλώ περιμένετε!</string>
+    <string name="set_old_user_no_more_devices_text">Φαίνεται ότι έχετε ξεμείνει από ελεύθερες θέσεις για συσκευές στον λογαριασμό σας.\n\nΠαρακαλώ δοκιμάστε να αφαιρέσετε μια υπάρχουσα συσκευή από τον Πίνακα Ελέγχου ή δημιουργήστε έναν καινούριο λογαριασμό.</string>
+    <string name="set_old_user_no_more_devices_title">Βάστα τ\' άλογα!</string>
+    <string name="sms_to_send_text">Το κινητό του φίλου σας έχει νέο αριθμό διότι η κάρτα SIM που είχε έχει αντικατασταθεί. Παρακαλώ επικοινωνήστε μαζί του στο %s εάν πιστεύετε ότι έχει κλαπεί.</string>
+    <string name="verify_your_account_first">Πρώτα πρέπει να επαληθεύσετε τον λογαριασμό σας</string>
+    <string name="yes">Ναι</string>
+</resources>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="agree">Я принимаю условия</string>
+    <string name="agreements_message1">Пожалуйста, не забудьте ознакомиться и согласиться с условиями предоставления сервиса Prey по ссылке внизу</string>
+    <string name="agreements_message2"><u>Прочитать условия</u></string>
+    <string name="agreements_title">Добро пожаловать в\nPrey для Android™!</string>
+    <string name="app_name">Prey для Android™</string>
+    <string name="back">Назад</string>
+    <string name="call_logs_notification_prefix">Список звонков: набранные, принятые и пропущенные</string>
+    <string name="cancel">Отмена</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/values-ru/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Требуется обновить приложение Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Для работы этого приложения требуется обновить Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Обновить Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Для работы этого приложения требуется включить Сервисы Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Включите Сервисы Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Источник запроса: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Установите Сервисы Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Для работы приложения требуется включить сервисы Google Play"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Для работы приложения требуется установить сервисы Google Play"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Для работы приложения требуется обновить сервисы Google Play"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Неизвестная ошибка с Сервисами Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Для работы этого приложения требуется обновить Сервисы Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Обновите Сервисы Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Войти"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Войти в аккаунт Google"</string>
+    <!-- From: file:/C:/Users/Ben/AndroidstudioProjects/prey-android/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="congratulations_title">Телефон добавлен!</string>
+    <string name="device_added_congratulations_text">Вы успешно привязали этот телефон к учетной записи Prey. Теперь потратьте минуту, чтобы настроить его.</string>
+    <string name="dontagree">Я не принимаю условия</string>
+    <string name="error_all_fields_are_required">Необходимо заполнить все поля</string>
+    <string name="error_cant_add_this_device">Не могу добавить устройство к вашей учетной записи. Пожалуйста, проверьте указанные email и пароль</string>
+    <string name="error_cant_change_password_unknown_error">Не могу изменить пароль. Пожалуйста, попробуйте позже.</string>
+    <string name="error_cant_create_acount">Не могу зарегистрировать учетную запись. Пожалуйста, проверьте введенную информацию</string>
+    <string name="error_cant_report_forgotten_password">Не могу сообщить о забытом пароле. Пожалуйста, попробуйте позже.</string>
+    <string name="error_communication_exception">Prey не смог подключится к панели управления.\n\nПроверьте настройки и повторите попытку</string>
+    <string name="error_registered_password_has_changed">Не могу изменить пароль. Пароль учетной записи был изменен с момента последнего входа.</string>
+    <string name="error_title">У нас проблема!</string>
+    <string name="first_dialog_message">Prey помогает найти телефон, указывая его местонахождение на панели управления после активации посредством SMS сообщения.\n\nВы уже зарегистрировались на сайте preyproject.com?</string>
+    <string name="first_dialog_title">Добро пожаловать в\nPrey для Android™!</string>
+    <string name="location_notification_prefix">Отправлено местоположение:</string>
+    <string name="new_account_congratulations_text">Вы только что успешно установили Prey на ваш телефон.\nЧтобы завершить процесс установки, вы должны подтвердить ваш адрес, перейдя по ссылке, которую мы только что отправили на %s.</string>
+    <string name="no">Нет</string>
+    <string name="ok">OK</string>
+    <string name="password_checking_dialog">Проверяю пароль...\nСекундочку!</string>
+    <string name="password_dialog_forgot_requesting">Сообщаю о забытом пароле...\nСекундочку!</string>
+    <string name="password_dialog_forgot_sent_label">Инструкции по смене пароля были отправлены на почтовый ящик %s</string>
+    <string name="password_dialog_forgot_sent_title">Инструкции высланы</string>
+    <string name="password_dialog_forgot_text1">Забыли пароль?</string>
+    <string name="password_dialog_forgot_text2"><u>Нажмите здесь!</u></string>
+    <string name="password_dialog_label">Введите пароль:</string>
+    <string name="password_dialog_title">Добро пожаловать!</string>
+    <string name="password_intents_exceed">Вы неправильно ввели пароль 3 раза. Извините!</string>
+    <string name="password_wrong">Неверный пароль. Попробуйте еще раз.</string>
+    <string name="popup_alert_message">Всплывающее сообщение</string>
+    <string name="popup_alert_title">Важное сообщение</string>
+    <string name="preferences_about">Prey для Android™</string>
+    <string name="preferences_about_category_name">О программе</string>
+    <string name="preferences_about_message">Prey для Android™</string>
+    <string name="preferences_about_summary">Версия 0.3.73 - © Fork Ltd.</string>
+    <string name="preferences_about_title">Prey для Android™</string>
+    <string name="preferences_category_operations">Функции тестирования</string>
+    <string name="preferences_category_title_other">Управление учетной записью</string>
+    <string name="preferences_category_title_ringtone">Модуль тревоги</string>
+    <string name="preferences_check_sim_change">Привязать к текущей SIM карте</string>
+    <string name="preferences_check_sim_change_summary">Активировать Prey в случае замены SIM карты</string>
+    <string name="preferences_destination_sms">Предупреждение о замене SIM карты</string>
+    <string name="preferences_destination_sms_edittext">Пожалуйста, выберите контакт, который будут уведомлен в случае обнаружения новой SIM карты. Он получит SMS с новым номером телефона.</string>
+    <string name="preferences_destination_sms_edittext_hint">введите имя</string>
+    <string name="preferences_destination_sms_not_valid">Введенный вами номер не валиден</string>
+    <string name="preferences_destination_sms_summary">Мобильный номер, на который будет отправлено уведомление о смене номера</string>
+    <string name="preferences_detach_confirmation_message">Ваш телефон был успешно отвязан от вашей учетной записи.\nТеперь вы можете настроить Prey снова.</string>
+    <string name="preferences_detach_dettaching_message">Отвязываю телефон. Пожалуйста, подождите...</string>
+    <string name="preferences_detach_dialog_message">Ваш телефон будет удален из панели управления. Все сохраненные отчеты также будут удалены.\n\nВы уверены?</string>
+    <string name="preferences_detach_dialog_title">Отвязка телефона</string>
+    <string name="preferences_detach_summary">Удалить этот телефон из панели управления вашей учетной записи</string>
+    <string name="preferences_detach_title">Отвязать телефон</string>
+    <string name="preferences_go_to_control_panel_dialog_message">Вы будете перенаправлены на панель управления вашей учетной записи.\n\nВы уверены?</string>
+    <string name="preferences_go_to_control_panel_dialog_title">Подтвердите запрос</string>
+    <string name="preferences_go_to_control_panel_summary">Открывает браузер с панелью управления Prey</string>
+    <string name="preferences_go_to_control_panel_title">Просмотр созданных отчетов</string>
+    <string name="preferences_password_confirm">Подтвердите пароль</string>
+    <string name="preferences_password_dialog_title">Пожалуйста, введите\nновый пароль</string>
+    <string name="preferences_password_length_error">Пароль должен содержать не менее 6 символов</string>
+    <string name="preferences_password_new">Новый пароль</string>
+    <string name="preferences_password_summary">Установить новый администраторский пароль Prey</string>
+    <string name="preferences_password_title">Изменить пароль</string>
+    <string name="preferences_password_updated">Пароль обновлен!</string>
+    <string name="preferences_passwords_do_not_match">Пароли не совпадают</string>
+    <string name="preferences_passwords_successfully_changed">Ваш пароль был успешно изменен</string>
+    <string name="preferences_passwords_updating_dialog">Обновляю ваш пароль для Prey.\nПожалуйста, подождите...</string>
+    <string name="preferences_ringtone_summary">Выберите звук для воспроизведения при активации</string>
+    <string name="preferences_ringtone_title">Выбрать звук</string>
+    <string name="preferences_sms_run">Активирующее SMS сообщение</string>
+    <string name="preferences_sms_run_edittext">Этот текст активирует Prey, когда будет получен</string>
+    <string name="preferences_sms_run_summary">Слово или фраза, которая разбудит Prey</string>
+    <string name="preferences_sms_stop">Дезактивирующее SMS сообщение</string>
+    <string name="preferences_sms_stop_edittext">Этот текст отключит Prey, когда будет получен</string>
+    <string name="preferences_sms_stop_summary">Слово или фраза, которые остановят Prey</string>
+    <string name="preferences_sms_title">Основная конфигурация</string>
+    <string name="preferences_start_confirmation_message">Теперь ваше устройство отмечено утерянным на панели управления. Будьте осторожны, поскольку этот процесс может разрядить аккумулятор через некоторое время!</string>
+    <string name="preferences_start_dialog_message">Вы пытаетесь пометить это устройство как утерянное и начать посылать отчеты на панель управления.\n\nВы уверены?</string>
+    <string name="preferences_start_dialog_title">Запуск Prey</string>
+    <string name="preferences_start_summary">Пометить это устройство как утерянное</string>
+    <string name="preferences_start_title">Запустить Prey</string>
+    <string name="preferences_stop_confirmation_message">Все снова в порядке. Рад, что вы нашли ваш мобильный!</string>
+    <string name="preferences_stop_dialog_message">Prey прекратит отправку отчетов на панель управления и устройство будет отмечено как найденное.\nВы уверены?</string>
+    <string name="preferences_stop_dialog_title">Остановка Prey</string>
+    <string name="preferences_stop_summary">Остановить процесс Prey и связанные с ним модули</string>
+    <string name="preferences_stop_title">Остановить Prey</string>
+    <string name="preyForAndroid_name">Prey</string>
+    <string name="set_new_user_dialog_create">Создать новую учетную запись</string>
+    <string name="set_new_user_dialog_creating_popup">Создаю учетную запись. Пожалуйста, подождите ...</string>
+    <string name="set_new_user_dialog_email">Валидный email</string>
+    <string name="set_new_user_dialog_name">Ваше имя</string>
+    <string name="set_new_user_dialog_password">Пароль</string>
+    <string name="set_new_user_dialog_repassword">Этот пароль потребуется вам для управления Prey на телефоне и для входа в панель управления на preyproject.com.\n\nПожалуйста введите его еще раз</string>
+    <string name="set_new_user_dialog_repassword_confirm">Подтверждаю</string>
+    <string name="set_new_user_dialog_repassword_title">Пожалуйста, перепроверьте\nваш пароль</string>
+    <string name="set_new_user_dialog_title">Завести новую\nучетную запись</string>
+    <string name="set_old_user_dialog_create">Следить за телефоном</string>
+    <string name="set_old_user_dialog_email">Email</string>
+    <string name="set_old_user_dialog_password">Пароль</string>
+    <string name="set_old_user_dialog_title">Пожалуйста, введите информацию\nвашей учетной записи</string>
+    <string name="set_old_user_loading">Добавляю устройство к учетной записи...\nСекундочку!</string>
+    <string name="set_old_user_no_more_devices_text">Похоже у вас закончились свободные места для устройств в вашей учетной записи.\n\nПопробуйте удалить устройство из панели управления или завести новую учетную запись</string>
+    <string name="set_old_user_no_more_devices_title">Все назад!</string>
+    <string name="sms_to_send_text">Телефон вашего друга изменил номер в следствие замены SIM карты. Пожалуста свяжитесь с ним по %s, если вы считаете, что он был украден.</string>
+    <string name="verify_your_account_first">Сначала вы должны подтвердить свою учетную запись</string>
+    <string name="yes">Да</string>
+</resources>

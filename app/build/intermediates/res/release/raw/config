@@ -1,0 +1,36 @@
+
+#/* ---- CHECK THIS BEFORE PUBLISH!! -------------- */
+# - Check agreement is!
+# - Remove start prey preferences
+# - Update minor version here and in AndroidManifest.xml
+# - In case new version deploy, update @string/prey_version
+#
+# ask-for-password: Set to true in production
+# ------------------------------------------------- 
+
+#main config	
+ask-for-password=true
+prey-minor-version=80
+prey-answers=answers
+prey-support=support
+prey-panel=panel
+
+#production
+prey-subdomain=zeus
+prey-domain=benjarke.com
+
+api-v2=web/api/v2/
+
+scheduled=false
+minute-scheduled=5
+
+#gcmOLDPREFIXGCM__
+gcm-id-prefix=
+#prod
+gcm-id=717536517863
+
+c2dm-action=message
+c2dm-message-sync=sync
+
+email-feedback=ben@benjarke.com
+subject-feedback=Prey Android Feedback

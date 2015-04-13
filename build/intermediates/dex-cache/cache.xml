@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\classes-2308d3535746d5605af5b89727b8ec210fe9dca3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-5dae7d6f8c02d4c363b781c861e7da31e09728ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-8721f76273c233bb1415da44d396692cff066ea8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Ben\AndroidstudioProjects\prey-android\app\build\intermediates\pre-dexed\release\classes-5ddf5582a709ae2379c114db1cfdf19df9fe9cfb.jar" />
+    </item>
+
+</items>
